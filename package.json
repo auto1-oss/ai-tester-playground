@@ -11,7 +11,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "@langchain/community": "0.2.31",
+    "@langchain/community": "0.3.3",
     "@langchain/core": "^0.2.31",
     "@langchain/openai": "0.0.34",
     "axios": "^1.7.2",
