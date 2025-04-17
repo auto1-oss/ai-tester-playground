@@ -1,3 +1,12 @@
+/*
+ * This file is part of the auto1-oss/ai-tester-playground.
+ *
+ * (c) AUTO1 Group SE https://www.auto1-group.com
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
 import express from 'express';
 import { testResultAnalyserController } from "../controllers/testResultAnalyserController.js";
 import {testDescriptionGeneratorController} from "../controllers/testDescriptionGeneratorController.js";
